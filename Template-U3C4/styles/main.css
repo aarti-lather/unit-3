@@ -1,0 +1,25 @@
+#contaner{
+    display: flex;
+    border:  1px solid green;
+}
+img{
+    flex:1;
+    width: 100%;
+}
+#dis{
+    flex: 1;
+}
+#doct{
+    display: flex;
+}
+#main{
+    flex:8;
+    border:  1px solid green;
+}
+#sidebar{
+    flex: 2;
+    border:  1px solid black;
+}
+#head{
+    flex: 1;
+}
